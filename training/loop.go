@@ -1,1 +1,1 @@
-package training
+package main
